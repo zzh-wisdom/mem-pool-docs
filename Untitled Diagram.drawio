@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T12:58:10.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="u6_Sz9H1USkDdxvaKzQ3" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T01:31:41.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GY4M2-0KhwRLi2D6pv1Z" version="14.4.8" type="github">
   <diagram id="cMcRvVcGeGw1HKMYI198" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,8 +136,17 @@
         <mxCell id="sNa2Os-df0Qrg9O8YbUV-88" value="全局地址：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="201.25" y="621" width="65.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sNa2Os-df0Qrg9O8YbUV-89" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;gradientColor=none;fontColor=#FFFFFF;align=left;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="278.25" y="618" width="120" height="26" as="geometry" />
+        <mxCell id="sNa2Os-df0Qrg9O8YbUV-89" value="是非常&lt;font color=&quot;#000000&quot;&gt;32 bit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;gradientColor=none;fontColor=#FFFFFF;align=left;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="269.5" y="618" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sNa2Os-df0Qrg9O8YbUV-90" value="是非常&lt;font color=&quot;#000000&quot;&gt;32 bit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;gradientColor=none;fontColor=#FFFFFF;align=left;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="389.5" y="618" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sNa2Os-df0Qrg9O8YbUV-91" value="Region ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="296.63" y="650" width="65.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sNa2Os-df0Qrg9O8YbUV-92" value="Region Offset" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="408.25" y="650" width="78.38" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
